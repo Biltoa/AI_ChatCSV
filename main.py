@@ -15,6 +15,8 @@ def main():
 
     st.set_page_config(page_title="Ask your CSV 📁")
     st.header("Ask your CSV 📁")
+    button_html = f'<a href="https://github.com/Biltoa/AI_ChatCSV" target="_blank" style="background-color:{"#28a745"};color:white;padding:0.5em 1em;text-decoration:none;border-radius:5px;">GitHub Source Code</a>'
+    st.markdown(button_html, unsafe_allow_html=True)    
     st.markdown("You can either use the example CSV file that comes with this demo, or upload your own.")
     st.markdown("Example usage:")
     st.markdown(''':red[1.] How many entries does the file contain?''')
