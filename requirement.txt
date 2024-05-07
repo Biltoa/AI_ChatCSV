@@ -1,4 +1,4 @@
-langchain-experimental
+langchain-experimental==0.0.57
 langchain
 langchain-openai
 openai
