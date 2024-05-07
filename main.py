@@ -54,6 +54,10 @@ def main():
                 agent = create_csv_agent(llm, user_csv, verbose=True)
                 response = agent.run(user_question)
             st.write(response)
+
+    st.text(" ")
+    st.text(" ")
+    st.text(" ")
             
     hide_streamlit_style = """
             <style>
