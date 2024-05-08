@@ -17,3 +17,5 @@ Demo Usage:
 3. Insert your question in the input field and click submit
 4. Done, wait for the output
 
+*Demo image:
+![image](https://github.com/Biltoa/AI_ChatCSV/assets/86389078/a685fecd-a86e-4233-b745-94fbc1e79841)
